@@ -1,5 +1,7 @@
 # VibeSync Wellness Weaver
 
+**Live Demo:** [https://vibe-sync-kl6108icp-trizars-projects.vercel.app](https://vibe-sync-kl6108icp-trizars-projects.vercel.app)
+
 VibeSync Wellness Weaver is an innovative application designed to enhance your well-being by analyzing your mood and providing personalized recommendations. It leverages AI to create a tailored wellness experience, offering suggestions for music, scents, and movements that align with your current emotional state.
 
 ## Features
